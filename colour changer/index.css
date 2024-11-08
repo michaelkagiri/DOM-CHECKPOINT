@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    padding: 300px;
+    align-items: center;
+}
+
+button{
+    font-size: 20px;
+    color: aqua;
+    background-color: black;
+    border: 20px;
+    border-radius: 5px;
+    cursor:pointer;
+}
